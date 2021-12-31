@@ -14,6 +14,7 @@ keywords = ["zdpapi", "zdpapi_file", "async", "zhangdapeng"]
 python = "^3.8"
 pydantic = "^1.8.2"
 uvicorn = "^0.15.0"
+python-docx = "^0.8.11"
 
 [tool.poetry.dev-dependencies]
 autopep8 = "^1.6.0"
